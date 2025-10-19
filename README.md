@@ -1,6 +1,6 @@
 # Estudo de SQL: Banco de Dados de Escola Técnica
 
-Este repositório contém o script SQL principal do "Projeto Escola Técnica" desenvolvido no curso TDSOI. O foco é a criação de um banco de dados normalizado e completo para gerenciar uma instituição de ensino.
+Este repositório contém o script SQL principal do "Projeto Escola Técnica" desenvolvido no curso TDS01. O foco é a criação de um banco de dados normalizado e completo para gerenciar uma instituição de ensino.
 
 (Estudado em Mar/2025)
 
